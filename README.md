@@ -89,3 +89,7 @@ The five R files have one role each:
 Run `Rscript R/04_run_all.R` from the repository root, or use `make paper`.
 To run selected stages, pass their names, for example
 `Rscript R/04_run_all.R figures manuscript`. `make check` also runs linting and tests.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
