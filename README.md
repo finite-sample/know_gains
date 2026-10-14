@@ -92,4 +92,14 @@ To run selected stages, pass their names, for example
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [finite-sample/know_pgap_format](https://github.com/finite-sample/know_pgap_format) — How do \(biased\) guessing encouraging features and guessing agnostic coding techniques affect the partisan gap?
+- [finite-sample/guess](https://github.com/finite-sample/guess) — Adjust naive estimates of learning for guessing
+- [finite-sample/know_guess_forget](https://github.com/finite-sample/know_guess_forget) — Replication and modern reanalysis of Cor and Sood \(2016\)
+- [finite-sample/know_hidden](https://github.com/finite-sample/know_hidden) — Mis-measuring Political Knowledge? Do People Know More—or Even Less—about Politics than Commonly Thought?
+- [finite-sample/know_pgap_review](https://github.com/finite-sample/know_pgap_review) — Replication Materials For "A Gap in Our Understanding? Reconsidering the Evidence for Partisan Knowledge Gaps"
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
